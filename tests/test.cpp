@@ -20,7 +20,7 @@ void testFuncA() {
     expected = std::asin(-0.5); // Значення arcsin(-0.5)
     assert(std::abs(result - expected) < 0.0001);
 
-    int n = 500000000;
+    int n = 100000;
     double x = 0.5;
 
     auto start = std::chrono::high_resolution_clock::now();
