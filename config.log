@@ -236,6 +236,7 @@ on DevOps-Ubuntu
 config.status:780: creating Makefile
 config.status:952: executing depfiles commands
 config.status:1029: cd .       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1034: $? = 0
 
 ## ---------------- ##
